@@ -1,0 +1,37 @@
+{
+  "name": "Sublime-CSSLint",
+  "version": "1.0",
+  "title": "Instant linting",
+  "author": {
+        "name": "Martin Krause",
+        "url": "https://github.com/martinkr"
+    },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.html",
+    },
+    {
+      "type": "GPL-3.0",
+      "url": "http://www.opensource.org/licenses/MIT",
+    }
+  ],
+  "dependencies": {
+    "nodejs": "",
+    "npm":"",
+    "CSSLint": "",
+    "Sublime Text": "2"
+  },
+  "description": "Validates your css-files every time you save it. The best part: a growl notification showing a summary of errors and warnings. Inspired by "Cross-Platform JSLint Support for Sublime Text Editor 2 (using NodeJS) by Eduardo A Lundgren Melo"",
+
+  "keywords": [
+    "Sublime Text",
+    "CSSLint",
+    "growl"
+  ],
+  "homepage": "https://github.com/martinkr/Sublime-CSSLint",
+  "files": [
+    "csslint.py",
+    "Sublime-CSSLint.sublime-settings"
+  ]
+}

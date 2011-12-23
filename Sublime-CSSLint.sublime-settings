@@ -1,0 +1,9 @@
+{
+	//"rules": "--warnings=box-model --errors=box-model",
+	"rules": "",
+	"pathGrowlNotify": "/usr/local/bin/growlnotify",
+	"pathNode": "/usr/local/bin/node",
+	"pathCSSLint": "/usr/local/bin/csslint",
+
+	"show_notification_on_save": true
+}
